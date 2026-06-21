@@ -40,7 +40,7 @@ When a user taps on any item in the list, the app navigates to a **Profile Scree
 
 ### ⏳ Loading Users
 
-<img src="screenshots/Loading_Users.jpg" width="250"/>
+<img src="screenshots/Loading Users.jpg" width="250"/>
 
 > Displays loading indicator while fetching data from API.
 
@@ -139,6 +139,7 @@ When a user taps on any item in the list, the app navigates to a **Profile Scree
 
 ```text
 lib/
+|── main.dart
 ├── models/
 │   └── user.dart
 ├── services/
@@ -157,7 +158,7 @@ lib/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/flutter_users_list_api.git
+git clone https://github.com/umarjawad123/flutter_users_list_api.git
 ```
 
 Navigate to project:
